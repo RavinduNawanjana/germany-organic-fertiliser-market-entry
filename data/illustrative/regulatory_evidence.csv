@@ -1,0 +1,13 @@
+requirement,review_status,evidence_locator,reviewer_name,review_date,observation
+market_route,unreviewed,,,,CE-marked or German national pathway undecided
+product_function_category,evidence_requested,,,,PFC identification pending
+component_material_category,evidence_requested,,,,CMC eligibility and exclusions pending
+formulation_identity,unreviewed,,,,Actual formulation not supplied
+nutrient_laboratory_report,unreviewed,,,,Accredited laboratory analysis needed
+contaminant_report,unreviewed,,,,Heavy metal analysis needed
+microbiology_report,unreviewed,,,,Microbial limits and method need review
+labelling,unreviewed,,,,Draft label in German needed
+conformity_assessment_route,unreviewed,,,,Depends on product category
+importer_responsibility,unreviewed,,,,Assign legal entity
+national_requirements,unreviewed,,,,National route not assessed
+organic_use_claim_support,unreviewed,,,,Organic production permission not implied by product name

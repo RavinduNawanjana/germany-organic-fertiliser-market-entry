@@ -1,0 +1,3 @@
+volume_kg,production_cost_usd_kg,eur_per_usd,freight_and_insurance_eur_total,port_handling_eur_total,customs_duty_fraction,testing_and_conformity_eur_total,warehousing_eur_kg,wholesale_price_eur_kg,fixed_market_launch_eur,data_status
+18000,1.1,0.9,4500,1300,0.04,4100,0.13,2.6,12500,ILLUSTRATIVE
+9000,1.6,0.9,3600,1100,0.04,4100,0.18,3.3,11000,ILLUSTRATIVE
